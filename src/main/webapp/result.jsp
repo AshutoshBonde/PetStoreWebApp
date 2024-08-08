@@ -4,7 +4,7 @@
 	<body>
 		<center>
 			<h1>
-    			Available Breed
+    			Available Breedss
 			</h1>
 			<%
 			List result= (List) request.getAttribute("breeds");
